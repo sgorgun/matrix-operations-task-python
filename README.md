@@ -20,8 +20,7 @@ def transpose(matrix: List[List[float]]) -> List[List[float]]:
 ```
 
 **Example 1:**
-$$
-matrix = \left(\begin{array}{} 
+$$matrix = \left(\begin{array}{} 
 1 & 2\\
 3 & 4
 \end{array}\right)
@@ -30,12 +29,10 @@ matrix = \left(\begin{array}{}
 transposed\_matrix = \left(\begin{array}{} 
 1 & 3\\
 2 & 4
-\end{array}\right)
-$$
+\end{array}\right)$$
 
 **Example 2:**
-$$
-matrix = \left(\begin{array}{} 
+$$matrix = \left(\begin{array}{} 
 1 & 2 & 3\\
 4 & 5 & 6
 \end{array}\right)
@@ -45,8 +42,7 @@ transposed\_matrix = \left(\begin{array}{}
 1 & 4\\
 2 & 5\\
 3 & 6
-\end{array}\right)
-$$
+\end{array}\right)$$
 
 Please use a template for the implementation (`tasks/matrix_operations:transpose`).
 
@@ -72,8 +68,7 @@ def add_matrices(matrix_a: List[List[float]], matrix_b: List[List[float]]) -> Li
 ```
  
 **Example 1:**
-$$
-\left(\begin{array}{} 
+$$\left(\begin{array}{} 
 1 & 2\\
 3 & 4
 \end{array}\right)+\left(\begin{array}{} 
@@ -82,12 +77,10 @@ $$
 \end{array}\right)=\left(\begin{array}{} 
 2 & 3\\
 4 & 6
-\end{array}\right)
-$$
+\end{array}\right)$$
 
 **Example 2:**
-$$
-\left(\begin{array}{} 
+$$\left(\begin{array}{} 
 1 & 2 & 3\\
 3 & 4 & 1
 \end{array}\right)+\left(\begin{array}{} 
@@ -96,8 +89,7 @@ $$
 \end{array}\right)=\left(\begin{array}{} 
 2 & 3 & 3\\
 4 & 5 & -9
-\end{array}\right)
-$$
+\end{array}\right)$$
 
 Please use a template for the implementation (`tasks/matrix_operations:add_matrices`).
 
@@ -123,8 +115,7 @@ def multiply_matrices(matrix_a: List[List[float]], matrix_b: List[List[float]]) 
 ```
  
 **Example 1:**
-$$
-\left(\begin{array}{} 
+$$\left(\begin{array}{} 
 1 & 2\\
 3 & 4
 \end{array}\right)*\left(\begin{array}{} 
@@ -133,12 +124,10 @@ $$
 \end{array}\right)=\left(\begin{array}{} 
 3 & 5\\
 7 & 11
-\end{array}\right)
-$$
+\end{array}\right)$$
 
 **Example 2:**
-$$
-\left(\begin{array}{} 
+$$\left(\begin{array}{} 
 1 & 2 & 3\\
 3 & 4 & 1
 \end{array}\right)*\left(\begin{array}{} 
@@ -148,7 +137,6 @@ $$
 \end{array}\right)=\left(\begin{array}{} 
 8 & 7\\
 12 & 11
-\end{array}\right)
-$$
+\end{array}\right)$$
 
 Please use a template for the implementation (`tasks/matrix_operations:multiply_matrices`).
