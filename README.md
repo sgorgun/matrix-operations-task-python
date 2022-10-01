@@ -1,8 +1,24 @@
-# Matrix Operations
+# Basic matrix operations
 
-Set of programming assignments that are designed to test knowledge of basic matrix operations.
+## Purpose
 
-# Task 1. Matrix transposition 
+The coding exercises are designed to test knowledge of the following concepts:
+
+* Matrix transposition
+* Matrix addition
+* Matrix multiplication
+
+## Overview
+
+The coding exercises cover the following practical problems:
+* Transposition of a given matrix
+* Calculating the result of given matrices addition
+* Calculating the result of given matrices multiplication
+
+## Coding exercises
+
+
+### Exercise 1: Transpose a given matrix
 
 Your task is to implement the following function for matrix transposition:
 
@@ -50,7 +66,7 @@ transposed\_matrix = \left(\begin{array}{}
 
 Please use a template for the implementation (`tasks/matrix_operations:transpose`).
 
-# Task 2. Adding matrices 
+### Exercise 2: Add two given matrices
 
 Your task is to implement the following function for adding two matrices:
 
@@ -101,7 +117,7 @@ def add_matrices(matrix_a: List[List[float]], matrix_b: List[List[float]]) -> Li
 
 Please use a template for the implementation (`tasks/matrix_operations:add_matrices`).
 
-# Task 3. Multiplying matrices 
+### Exercise 3: Multiply two given matrices
 
 Your task is to implement the following function for multiplying two matrices:
 

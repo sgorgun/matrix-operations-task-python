@@ -1,15 +1,16 @@
-# Matrix Operations
+# Basic matrix operations
 
-Set of programming assignments that are designed to test knowledge of basic matrix operations.
+## Purpose
 
-# Task 1. Matrix transposition 
+The coding exercises are designed to test knowledge of the following concepts:
 
-Your task is to implement a function for matrix transposition using a provided signature.
+* Matrix transposition
+* Matrix addition
+* Matrix multiplication
 
-# Task 2. Adding matrices 
+## Overview
 
-Your task is to implement a function for adding two matrices using a provided signature.
-
-# Task 3. Multiplying matrices 
-
-Your task is to implement a function for multiplying two matrices using a provided signature.
+The coding exercises cover the following practical problems:
+* Transposition of a given matrix
+* Calculating the result of given matrices addition
+* Calculating the result of given matrices multiplication
