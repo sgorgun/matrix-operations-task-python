@@ -8,12 +8,6 @@ The coding exercises are designed to test knowledge of the following concepts:
 * Matrix addition
 * Matrix multiplication
 
-## Overview
-
-The coding exercises cover the following practical problems:
-* Transposition of a given matrix
-* Calculating the result of given matrices addition
-* Calculating the result of given matrices multiplication
 
 ## Coding exercises
 
