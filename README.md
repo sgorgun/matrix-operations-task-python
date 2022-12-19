@@ -66,7 +66,7 @@ transposed\_matrix = \left(\begin{array}{}
 
 <br/>
 
-Please use the template `tasks/matrix_operations:transpose` for the implementation .
+Please use the template `tasks/matrix_operations:transpose` for the implementation.
 
 ### Exercise 2: Add two given matrices
 
