@@ -2,7 +2,7 @@
 
 ## Purpose
 
-The coding exercises are designed to test your knowledge of the following concepts:
+The following coding exercises are designed to test your knowledge of the following concepts:
 
 * Matrix transposition
 * Matrix addition

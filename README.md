@@ -2,7 +2,7 @@
 
 ## Purpose
 
-The coding exercises are designed to test your knowledge of the following concepts:
+The following coding exercises are designed to test your knowledge of the following concepts:
 
 * Matrix transposition
 * Matrix addition
@@ -20,7 +20,7 @@ The coding exercises cover the following practical problems:
 
 ### Exercise 1: Transpose a given matrix
 
-Your task is to implement the following function for matrix transposition:
+Your task is to implement the following function to transpose matrices:
 
 ```python
 def transpose(matrix: List[List[float]]) -> List[List[float]]:
@@ -64,11 +64,13 @@ transposed\_matrix = \left(\begin{array}{}
 \end{array}\right)
 ```
 
-Please use a template for the implementation (`tasks/matrix_operations:transpose`).
+<br/>
+
+Please use the template `tasks/matrix_operations:transpose` for the implementation .
 
 ### Exercise 2: Add two given matrices
 
-Your task is to implement the following function for adding two matrices:
+Your task is to implement the following function to add two given matrices:
 
 ```python
 def add_matrices(matrix_a: List[List[float]], matrix_b: List[List[float]]) -> List[List[float]]:
@@ -115,11 +117,13 @@ def add_matrices(matrix_a: List[List[float]], matrix_b: List[List[float]]) -> Li
 \end{array}\right)
 ```
 
-Please use a template for the implementation (`tasks/matrix_operations:add_matrices`).
+<br/>
+
+Please use the template `tasks/matrix_operations:add_matrices` for the implementation.
 
 ### Exercise 3: Multiply two given matrices
 
-Your task is to implement the following function for multiplying two matrices:
+Your task is to implement the following function to multiply two given matrices:
 
 ```python
 def multiply_matrices(matrix_a: List[List[float]], matrix_b: List[List[float]]) -> List[List[float]]:
@@ -167,4 +171,6 @@ def multiply_matrices(matrix_a: List[List[float]], matrix_b: List[List[float]]) 
 \end{array}\right)
 ```
 
-Please use a template for the implementation (`tasks/matrix_operations:multiply_matrices`).
+<br/>
+
+Please use the template `tasks/matrix_operations:multiply_matrices` for the implementation.
