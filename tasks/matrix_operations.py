@@ -26,13 +26,13 @@ def add_matrices(matrix_a: List[List[float]], matrix_b: List[List[float]]) -> Li
         The sum of two given matrices.
 
     Raises:
-        ValueError: if given matrices are not compatible (dimensions differ in size).
+        ValueError: if the matrices are not compatible (dimensions differ in size).
     """
     pass
 
 
 def multiply_matrices(matrix_a: List[List[float]], matrix_b: List[List[float]]) -> List[List[float]]:
-    """Returns a product (result of multiplication) of two given matrices.
+    """Returns the product (result of multiplication) of two given matrices.
 
     Args:
         matrix_a: List[List[float]], the first numeric matrix.
@@ -42,6 +42,6 @@ def multiply_matrices(matrix_a: List[List[float]], matrix_b: List[List[float]]) 
         The product of two given matrices.
 
     Raises:
-        ValueError: if given matrices are not compatible.
+        ValueError: if the matrices are not compatible.
     """
     pass
